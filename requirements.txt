@@ -2,3 +2,4 @@ chromadb
 pymupdf
 sentence-transformers
 pillow
+openai
